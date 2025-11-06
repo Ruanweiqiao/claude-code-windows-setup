@@ -367,3 +367,4 @@ Windows 上安装 Claude Code 的核心步骤：
 **作者**：Whistle
 
 **适用版本**：Claude Code 2.0.34+
+
